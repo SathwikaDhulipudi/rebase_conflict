@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 lion
 cow
 dog
 cat
+=======
+fish
+hen
+sea
+india
+sprrow[D[D[D[D[D[Carrow[C
+>>>>>>> 7ed6c4b (commited)
